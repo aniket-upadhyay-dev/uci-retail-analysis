@@ -38,6 +38,8 @@ The Excel analysis includes:
 - Cancellation analysis
 - Year and quarter filtering
 
+![Excel Valid Sales Dashboard](using-excel/excel-valid-sales-dashboard.png)
+
 ---
 
 ## Repository Structure
