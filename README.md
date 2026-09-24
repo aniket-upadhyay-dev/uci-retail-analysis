@@ -20,13 +20,14 @@ By treating returns as a separate analytical problem, several insights emerged:
 ---
 
 ## Repository Structure
+```
 uci-retail-analysis/
 ├── Data/
 │   ├── Online_Retail_Raw.csv
 │   └── Online_Retail_Clean.csv
 └── using-excel/
     └── UCI-Retail-Analysis.xlsx
-
+```
 ---
 
 ## Data Source & Acknowledgements
