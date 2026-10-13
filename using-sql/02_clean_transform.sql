@@ -1,4 +1,4 @@
-transform raw staging data into 3 separate dimension table
+--transform raw staging data into 3 separate dimension table
 DROP TABLE IF EXISTS transactions;
 DROP TABLE IF EXISTS products;
 DROP TABLE IF EXISTS customers;
